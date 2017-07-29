@@ -1,4 +1,4 @@
-# hexo_blog
+# Hexo Blog
 
 ## How to use Hexo and deploy to GitHub Pages
 * https://github.com/hexojs/hexo
